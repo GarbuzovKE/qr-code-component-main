@@ -26,10 +26,11 @@ img{
     margin: 15px auto 0;
 }
 
-h2{
+h1{
     padding: 0 1.5em;
     color: hsl(218, 44%, 22%); 
     font-weight: 700;
+    font-size: 1.4rem;
 }
 
 p{
